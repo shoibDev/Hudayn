@@ -1,0 +1,9 @@
+# Spring Boot
+.idea/
+target/
+*.iml
+# Maven
+!.mvn/wrapper/maven-wrapper.jar
+
+# Environment
+.env
